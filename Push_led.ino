@@ -9,5 +9,6 @@ if(push==HIGH){
   digitalWrite(led, HIGH);
   delay(1500);
   digitalWrite(led, LOW);
+  delay_(2000);
   }
 }
